@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f99d9653.css",
+    "main.js": "/static/js/main.c6d280f9.js",
+    "static/media/IMAGE.png": "/static/media/IMAGE.f839b06e4027dada63ab.png",
+    "static/media/IMAGE2.png": "/static/media/IMAGE2.4c06de3c55492464f306.png",
+    "static/media/IMAGE3.png": "/static/media/IMAGE3.3cd881dddf2bcbc545aa.png",
+    "static/media/teddy.png": "/static/media/teddy.f350bfdbd19b40e9a755.png",
+    "static/media/buttons.png": "/static/media/buttons.c00992484124223fc62a.png",
+    "static/media/flower.png": "/static/media/flower.86b2296c70a45680dfbd.png",
+    "static/media/flower2.png": "/static/media/flower2.38145e946a8b603e6c9f.png",
+    "static/media/penguin.png": "/static/media/penguin.94b55f99e44f960602a5.png",
+    "static/media/monkey.png": "/static/media/monkey.d1c190e0168596c86acd.png",
+    "static/media/friend.png": "/static/media/friend.28385518b44a5951caf2.png",
+    "static/media/doll.png": "/static/media/doll.89b33e8cce1096701f79.png",
+    "static/media/dog.png": "/static/media/dog.35de6a18f533f150c33f.png",
+    "static/media/monster.png": "/static/media/monster.3482ef60a32c68084af0.png",
+    "static/media/car.png": "/static/media/car.0b1c600f56800cc21bb4.png",
+    "static/media/camera.png": "/static/media/camera.6e808700957a9567e47c.png",
+    "static/media/doll2.png": "/static/media/doll2.7135ac0a6c31fba8e0af.png",
+    "static/media/rabbit.png": "/static/media/rabbit.12b2ff9b63bafcbf1cbb.png",
+    "index.html": "/index.html",
+    "main.f99d9653.css.map": "/static/css/main.f99d9653.css.map",
+    "main.c6d280f9.js.map": "/static/js/main.c6d280f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99d9653.css",
+    "static/js/main.c6d280f9.js"
+  ]
+}
